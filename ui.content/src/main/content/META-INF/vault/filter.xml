@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/asset-capstone" mode="merge"/>
+    <filter root="/content/asset-capstone" mode="merge"/>
+    <filter root="/content/dam/asset-capstone" mode="merge">
+        <exclude pattern="/content/dam/asset-capstone(/.*)?"/>
+        <include pattern="/content/dam/asset-capstone/jcr:content(/.*)?"/>
+    </filter>
+    <filter root="/content/dam/asset-capstone/asset.jpg" mode="merge"/>
+    <filter root="/content/experience-fragments/asset-capstone" mode="merge"/>
+</workspaceFilter>

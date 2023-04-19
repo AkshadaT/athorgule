@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/asset-capstone/clientlibs"/>
+    <filter root="/apps/asset-capstone/components"/>
+    <filter root="/apps/asset-capstone/i18n"/>
+</workspaceFilter>
