@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        dam:extramodifiers=""
+        dam:lastS7Synced="{Date}2023-04-09T16:57:15.957+05:30"
+        dam:lastS7SyncStatus="success"
+        jcr:primaryType="nt:unstructured"
+        fmt="jpeg"
+        hei="1000"
+        printres="72"
+        qlt="75,1"
+        resmode="bisharp"
+        wid="1000">
+        <metadata
+            dam:scene7CloudConfigPath="/conf/global/settings/cloudconfigs/dmscene7"
+            dam:scene7ID="i|9686|4758958"
+            dam:scene7RootID="CEM"
+            jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>
