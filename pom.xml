@@ -1510,6 +1510,22 @@ Bundle-DocURL:
         <scope>test</scope>
                     
       </dependency>
+
+     <!-- Asset share commons -->
+     <dependency>
+		    <groupId>com.adobe.aem.commons</groupId>
+		    <artifactId>assetshare.all</artifactId>
+		    <version>2.5.4</version>
+		    <type>zip</type>
+		  </dependency>
+		  
+		  <!-- Optional dependency to code against Asset Share Commons APIs -->
+		  <dependency>
+		    <groupId>com.adobe.aem.commons</groupId>
+		    <artifactId>assetshare.core</artifactId>
+		    <version>2.5.4</version>
+		    <type>jar</type>
+		  </dependency>
               
     </dependencies>
         
