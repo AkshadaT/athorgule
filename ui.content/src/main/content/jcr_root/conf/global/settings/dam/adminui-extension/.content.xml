@@ -3,5 +3,6 @@
     jcr:mixinTypes="[rep:AccessControllable]"
     jcr:primaryType="cq:Page">
     <metadataschema/>
+	<metadataprofile/>
     <rep:policy/>
 </jcr:root>
